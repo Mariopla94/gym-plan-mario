@@ -1,0 +1,13 @@
+{
+  "name": "Gym Plan Mario",
+  "short_name": "Gym Plan",
+  "description": "Plan de entrenamiento, nutricion y progreso",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
